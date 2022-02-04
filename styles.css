@@ -16,12 +16,14 @@ table {
 th {
   font-size: 25px;
   color:maroon;
+  border: 1px solid black;
 }
 
 td {
   font-size: 25px;
   color: orangered;
   text-align: center;
+  border: 1px solid black;
 }
 
 caption {
