@@ -1,4 +1,7 @@
 # Tourism
 Dear reader, 
-This HTML project is made to help encourage tourism all over the world, especially in India. 
-I hope you like my project and let me know if you find some mistakes/need some more details and have fun exploring the website!
+
+This project is made to ~~test my web development skills~~ help encourage tourism all over the world, especially in India. 
+I hope you like my website (https://codinginventor.github.io/Tourism-and-7-Wonders/) and let me know if you find some mistakes/need some more details and have fun exploring the website!
+
+Feel free to give me suggestions: https://discord.com/users/829614385584144394
