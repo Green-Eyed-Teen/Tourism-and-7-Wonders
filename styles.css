@@ -14,6 +14,7 @@ h1 {
 
 nav {
   border: 3px inset darkorange;
+  border-radius: 15px;
 }
 
 p strong {
@@ -38,6 +39,7 @@ a:hover {
 
 iframe {
   border: 2px solid;
+  border-radius: 15px;
   width: 550px;
   height: 325px;
 }
@@ -47,12 +49,14 @@ table {
   margin-left: 275px;
   width: 700px;
   height: auto;
+  border-radius: 10px;
 }
 
 th {
   font-size: 25px;
   color:maroon;
   border: 1px solid black;
+  border-radius: 5px;
 }
 
 td {
@@ -60,6 +64,7 @@ td {
   color: orangered;
   text-align: center;
   border: 1px solid black;
+  border-radius: 5px;
 }
 
 caption {
@@ -75,4 +80,5 @@ figcaption {
 
 img {
   border: 2px solid black;
+  border-radius: 25px;
 }
