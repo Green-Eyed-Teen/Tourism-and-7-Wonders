@@ -51,6 +51,8 @@ figcaption {
 
 iframe {
   border: 2px solid;
+  width: 550px;
+  height: 325px;
 }
 
 img {
