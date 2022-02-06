@@ -1,9 +1,6 @@
-*{
-  font-family: Cambria;
-}
-
 body {
   background-color: rgb(231, 180, 187);
+  font-family: Cambria;
   font-size: 22px;
   padding-left: 10px;
   padding-right: 10px;
@@ -12,10 +9,37 @@ body {
 h1 {
   color: red;
   text-align: center;
+  font-family: Merriweather;
+}
+
+nav {
+  border: 2px solid darkorange;
+}
+
+p strong {
+  font-family: Helvetica;
 }
 
 h2 {
   color: purple;
+}
+
+a {
+  color: green;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: red;
+}
+
+iframe {
+  border: 2px solid;
+  width: 550px;
+  height: 325px;
 }
 
 table {
@@ -49,28 +73,6 @@ figcaption {
   font-weight: bold;
 }
 
-iframe {
-  border: 2px solid;
-  width: 550px;
-  height: 325px;
-}
-
 img {
   border: 2px solid black;
-}
-
-nav {
-  border: 2px solid darkorange;
-}
-
-a {
-  color: green;
-}
-
-a:visited {
-  color: grey;
-}
-
-a:hover {
-  color: red;
 }
