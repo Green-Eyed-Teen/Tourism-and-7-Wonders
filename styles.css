@@ -13,7 +13,7 @@ h1 {
 }
 
 nav {
-  border: 2px solid darkorange;
+  border: 3px inset darkorange;
 }
 
 p strong {
