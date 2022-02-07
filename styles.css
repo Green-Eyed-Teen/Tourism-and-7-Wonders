@@ -2,7 +2,8 @@ body {
   background-color: rgb(231, 180, 187);
   font-family: Cambria;
   font-size: 22px;
-  padding: 0px 10px; 
+  padding: 0 10px; 
+  min-width: 400px;
 }
 
 #seven-wonders, .youtube-video, footer p {
@@ -29,8 +30,9 @@ h1 {
 }
 
 nav {
-  border: 3px inset darkorange;
+  border: 3px solid maroon;
   border-radius: 15px;
+  margin: 0 200px;
 }
 
 p strong {
@@ -58,10 +60,10 @@ iframe {
 
 table {
   border: 2px solid;
-  margin-left: 275px;
+  border-radius: 10px;
+  margin: 0 auto;
   width: 700px;
   height: auto;
-  border-radius: 10px;
 }
 
 caption {
@@ -87,7 +89,7 @@ td {
 }
 
 figcaption {
-  color: green;
+  color: rgb(102, 98, 98);
   font-weight: bold;
 }
 
